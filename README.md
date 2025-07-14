@@ -1,2 +1,2 @@
-# Yahoo-Fantasy-Football-Tracker
-Leverages 3rd party API to track stats with Yahoo Fantasy
+# Yahoo-Fantasy-Football-Stat-Compiler
+Short Python app leveraging the yahoo fantasy football api to track and parse data throughout seasons in various NFL leagues.
